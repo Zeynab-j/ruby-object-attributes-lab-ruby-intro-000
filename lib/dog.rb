@@ -15,5 +15,3 @@ lass Dog
   def breed
     @breed
   end
-
- 
